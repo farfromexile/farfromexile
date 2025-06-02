@@ -40,12 +40,12 @@ Siber suçlarla mücadelede deneyimimle, güvenliğin her katmanında katkı sa�
 | Kurum                                  | Pozisyon               | Tarih                  | Yer                  |
 |---------------------------------------|------------------------|------------------------|----------------------|
 | Siber Suçlarla Mücadele Şube Müdürlüğü | Operasyon Analisti     | Ağustos 2024 - Günümüz | Etimesgut, Ankara    |
-| FarFromExile                          | Kurucu                 | Nisan 2024 - Günümüz   | Samsun               |
-| ISUBÜ Bilişim Topluluğu               | Başkan                 | Şubat 2023 - Ağustos 2024 | Isparta              |
+| FarFromExile                           | Kurucu                 | Nisan 2024 - Günümüz   | Samsun               |
+| ISUBÜ Bilişim Topluluğu                | Başkan                 | Şubat 2023 - Ağustos 2024 | Isparta              |
 | Siber Isparta Gençlik Merkezi          | Siber Güvenlik Eğitmeni| Ağustos 2023 - Eylül 2023 | Isparta              |
 | 1 Milyon İstihdam Projesi              | Firewall Engineer      | Ocak 2023 - Temmuz 2023 | Ankara               |
 | 1 Milyon İstihdam Projesi              | Siber Güvenlik Eğitmeni| Ekim 2022 - Ocak 2023  | Ankara               |
-| İşncode                              | Junior Software Engineer & Web Developer | Haziran 2021 - Ekim 2022 | Samsun               |
+| Ncode                                  | Junior Software Engineer & Web Developer | Haziran 2021 - Ekim 2022 | Samsun               |
 
 ---
 
