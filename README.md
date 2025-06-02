@@ -30,9 +30,10 @@
     <img src="https://skillicons.dev/icons?i=instagram" height="30"/>
   </a>
   <a href="https://www.youtube.com/@nihatburakşahin">
-    <img src="https://skillicons.dev/icons?i=youtube" height="30"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" height="30" alt="YouTube" />
   </a>
 </div>
+
 
 ---
 
