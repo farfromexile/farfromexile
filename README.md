@@ -67,12 +67,6 @@ Siber suçlarla mücadelede deneyimimle, güvenliğin her katmanında katkı sa�
 
 ---
 
-## 📊 GitHub İstatistikleri
-
-![Nihat Burak Şahin GitHub Stats](https://github-readme-stats.vercel.app/api?username=farfromexile&show_icons=true&theme=dark)
-
----
-
 <p align="center">
-  <em>Everyting for Humanity & VATAN için her an her yerde.</em>
+  <em>Everyting for humanity & Vatan için her an her yerde</em>
 </p>
