@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center" style="font-family: monospace; color: #00FF99;">Nihat Burak Şahin</h1>
-<p align="center"><em style="color: #ccc;">Siber Güvenlik Uzmanı • Etik Hacker • Operasyonel Zeka</em></p>
+<p align="center"><em style="color: #ccc;">Operasyon Analizmi• Büyük Veri Güvenliği• Linux? </em></p>
 
 ---
 
@@ -13,7 +13,7 @@
 ```
 ┌──(root㉿farfromexile)-[~]
 └─# whoami
-nbsahin@cyberops:~$
+nburakshn@cyberops:~$
 ```
 
 ---
