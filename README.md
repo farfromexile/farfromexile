@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/84996120?v=4" width="150" style="border-radius: 50%; border: 3px solid #00ff00;" />
 </div>
@@ -38,25 +39,38 @@
 ## ⚔️ Deneyim
 
 ```diff
-+ Siber Suçlarla Mücadele Şube Müdürlüğü      | Operasyon Analisti               | Ağustos 2024 - Günümüz  | Etimesgut, Ankara
-+ FarFromExile                                | Kurucu                           | Nisan 2024 - Günümüz    | Samsun
-+ ISUBÜ Bilişim Topluluğu                     | Başkan                           | Şubat 2023 - Ağustos 2024 | Isparta
-+ Siber Isparta Gençlik Merkezi               | Siber Güvenlik Eğitmeni          | Ağustos 2023 - Eylül 2023 | Isparta
-+ 1 Milyon İstihdam Projesi                   | Firewall Engineer                | Ocak 2023 - Temmuz 2023 | Ankara
-+ 1 Milyon İstihdam Projesi                   | Siber Güvenlik Eğitmeni          | Ekim 2022 - Ocak 2023  | Ankara
-+ Ncode                                       | Junior Software Engineer & Web Dev | Haziran 2021 - Ekim 2022 | Samsun
-🎓 Eğitim
-diff
-Copy
-Edit
++ Siber Suçlarla Mücadele Şube Müdürlüğü        | Operasyon Analisti                 | Ağustos 2024 - Günümüz  | Etimesgut, Ankara
++ FarFromExile                                  | Kurucu                             | Nisan 2024 - Günümüz    | Samsun
++ ISUBÜ Bilişim Topluluğu                       | Başkan                             | Şubat 2023 - Ağustos 2024 | Isparta
++ Siber Isparta Gençlik Merkezi                 | Siber Güvenlik Eğitmeni            | Ağustos 2023 - Eylül 2023 | Isparta
++ 1 Milyon İstihdam Projesi                     | Firewall Engineer                  | Ocak 2023 - Temmuz 2023 | Ankara
++ 1 Milyon İstihdam Projesi                     | Siber Güvenlik Eğitmeni            | Ekim 2022 - Ocak 2023  | Ankara
++ Ncode                                         | Junior Software Engineer & Web Dev | Haziran 2021 - Ekim 2022 | Samsun
+```
+
+---
+
+## 🎓 Eğitim
+
+```diff
 + Massachusetts Institute of Technology (MIT)      | Computer Science, Cybersecurity & Counterterrorism | 2022 - 2024
 + Isparta Uygulamalı Bilimler Üniversitesi         | Bilgisayar Programlama (Önlisans)                | 2022 - 2024
 + Bafra Altınkaya Anadolu Lisesi                   | Lise Diploması                                  | 2018 - 2021
-🛠️ Uzmanlık Alanlarım
-bash
-Copy
-Edit
+```
+
+---
+
+## 🛠️ Uzmanlık Alanlarım
+
+```bash
 🧱 Güvenlik Duvarları (Firewall Engineer)
 🌐 Ağ Güvenliği
 🎛️ Operasyon Yönetimi
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=100&section=footer"/> <i style="color:#888;">Everything for humanity — Vatan için her an her yerde</i> </p> ```
+```
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=100&section=footer"/>
+  <i style="color:#888;">Everything for humanity — Vatan için her an her yerde</i>
+</p>
