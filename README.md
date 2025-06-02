@@ -29,9 +29,6 @@
   <a href="https://instagram.com/nburakshn">
     <img src="https://skillicons.dev/icons?i=instagram" height="30"/>
   </a>
-  <a href="https://www.youtube.com/@nihatburakşahin">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" height="30" alt="YouTube">
-</a>
 </div>
 
 
