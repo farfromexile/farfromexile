@@ -74,5 +74,5 @@ Siber suçlarla mücadelede deneyimimle, güvenliğin her katmanında katkı sa�
 ---
 
 <p align="center">
-  <em>Her zaman öğrenmeye ve gelişmeye açık, vatanı için çalışan bir siber güvenlik uzmanı.</em>
+  <em>Everyting for Humanity & VATAN için her an her yerde.</em>
 </p>
