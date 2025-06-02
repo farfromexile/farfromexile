@@ -72,5 +72,6 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=100&section=footer"/>
+  <h1></h1>
   <i style="color:#888;">Everything for humanity — Vatan için her an her yerde</i>
 </p>
