@@ -29,9 +29,6 @@
   <a href="https://instagram.com/nburakshn">
     <img src="https://skillicons.dev/icons?i=instagram" height="30"/>
   </a>
-<a href="https://wa.me/+905335834955" style="margin: 0 12px;">
-    <img src="https://skillicons.dev/icons?i=whatsapp" height="30" alt="WhatsApp" />
-  </a>
 </div>
 
 
