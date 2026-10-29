@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 276" width="920" height="276" role="img" aria-label="exile@cyberlabs neofetch system telemetry">
+  <defs>
+    <linearGradient id="termBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0B0F" />
+      <stop offset="100%" stop-color="#120F1D" />
+    </linearGradient>
+    <linearGradient id="termBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7B2CBF" stop-opacity="0.75" />
+      <stop offset="100%" stop-color="#00F5FF" stop-opacity="0.6" />
+    </linearGradient>
+  </defs>
+
+  <!-- Terminal Frame -->
+  <rect x="2" y="2" width="916" height="272" rx="14" ry="14" fill="url(#termBg)" stroke="url(#termBorder)" stroke-width="1.8" />
+
+  <!-- Header Bar -->
+  <path d="M 16 2 H 904 A 14 14 0 0 1 918 16 V 38 H 2 V 16 A 14 14 0 0 1 16 2 Z" fill="#151221" />
+  <line x1="2" y1="38" x2="918" y2="38" stroke="#7B2CBF" stroke-opacity="0.35" stroke-width="1" />
+  <circle cx="24" cy="20" r="5" fill="#FF5F56" />
+  <circle cx="42" cy="20" r="5" fill="#FFBD2E" />
+  <circle cx="60" cy="20" r="5" fill="#27C93F" />
+  <text x="86" y="24" fill="#9E97B8" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="12">
+    exile@cyberlabs ~ $ neofetch --config /etc/exile/cyberlabs.conf
+  </text>
+
+  <!-- Left Emblem Box (Aligned Vector Block — Replaces Broken ASCII Box) -->
+  <g transform="translate(36, 58)">
+    <rect x="0" y="0" width="196" height="186" rx="10" fill="#0F0C18" stroke="#7B2CBF" stroke-opacity="0.5" stroke-width="1.2" />
+    <rect x="14" y="14" width="168" height="4" rx="2" fill="#7B2CBF" />
+    <text x="98" y="64" text-anchor="middle" fill="#00F5FF" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="26" font-weight="800" letter-spacing="4">
+      EXILE
+    </text>
+    <text x="98" y="88" text-anchor="middle" fill="#D8D2EC" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="12" font-weight="700" letter-spacing="3">
+      CYBERLABS
+    </text>
+    <line x1="28" y1="104" x2="168" y2="104" stroke="#5A189A" stroke-width="1.2" />
+    <text x="98" y="126" text-anchor="middle" fill="#9E97B8" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="10.5" letter-spacing="1.2">
+      EST. 2018 · ZERO-TRUST
+    </text>
+
+    <!-- Multi-Theme Brand Swatch Bar (Exile, Mocha, Dark, Light) -->
+    <g transform="translate(26, 144)">
+      <rect x="0" y="0" width="20" height="20" rx="4" fill="#7B2CBF" />
+      <rect x="25" y="0" width="20" height="20" rx="4" fill="#5A189A" />
+      <rect x="50" y="0" width="20" height="20" rx="4" fill="#00F5FF" />
+      <rect x="75" y="0" width="20" height="20" rx="4" fill="#6F4E37" />
+      <rect x="100" y="0" width="20" height="20" rx="4" fill="#4DA8DA" />
+      <rect x="125" y="0" width="20" height="20" rx="4" fill="#F8F9FA" />
+    </g>
+  </g>
+
+  <!-- Right Neofetch Telemetry -->
+  <g transform="translate(264, 72)" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="13">
+    <text x="0" y="0" font-weight="800">
+      <tspan fill="#00F5FF">exile</tspan><tspan fill="#9E97B8">@</tspan><tspan fill="#B983FF">cyberlabs</tspan>
+    </text>
+    <line x1="0" y1="10" x2="616" y2="10" stroke="#7B2CBF" stroke-opacity="0.4" stroke-width="1" />
+
+    <text x="0" y="32"><tspan fill="#00F5FF" font-weight="700">OS        </tspan><tspan fill="#7B2CBF">:: </tspan><tspan fill="#ECE8F8">CachyOS Linux (Arch x86_64) &amp; Windows 11 Pro</tspan></text>
+    <text x="0" y="55"><tspan fill="#00F5FF" font-weight="700">Role      </tspan><tspan fill="#7B2CBF">:: </tspan><tspan fill="#ECE8F8">Founder &amp; Principal Security / AI Systems Engineer</tspan></text>
+    <text x="0" y="78"><tspan fill="#00F5FF" font-weight="700">Shell     </tspan><tspan fill="#7B2CBF">:: </tspan><tspan fill="#ECE8F8">zsh · automated agentic pipelines · git-ops</tspan></text>
+    <text x="0" y="101"><tspan fill="#00F5FF" font-weight="700">Languages </tspan><tspan fill="#7B2CBF">:: </tspan><tspan fill="#ECE8F8">Python · Dart · C++ · Kotlin · C# · SQL</tspan></text>
+    <text x="0" y="124"><tspan fill="#00F5FF" font-weight="700">Platforms </tspan><tspan fill="#7B2CBF">:: </tspan><tspan fill="#ECE8F8">Flutter · FastAPI · LangGraph · Claude AI · Firebase</tspan></text>
+    <text x="0" y="147"><tspan fill="#00F5FF" font-weight="700">Security  </tspan><tspan fill="#7B2CBF">:: </tspan><tspan fill="#ECE8F8">DFIR · CTI · Red Teaming · AES-256 · Hardware NFC</tspan></text>
+    <text x="0" y="170"><tspan fill="#00F5FF" font-weight="700">Status    </tspan><tspan fill="#7B2CBF">:: </tspan><tspan fill="#27C93F" font-weight="700">[ ONLINE — BUILDING RESILIENT SYSTEMS ]</tspan></text>
+  </g>
+</svg>
